@@ -1,0 +1,588 @@
+body{
+  background-color:hsl(217, 28%, 15%);
+height: 3600px;
+}
+.logo{
+  position: absolute;
+  top:50px;
+  left:50px;
+}
+.illustration{
+  position:absolute;
+  top:200px;
+  left:400px;
+}
+.features{
+  position: absolute;
+  top: 50px;
+  right: 350px;
+  color: white;
+  opacity: 50%;
+}
+.team{
+  position: absolute;
+  top: 50px;
+  right: 250px;
+  color: White;
+  opacity: 50%;
+}
+.Sign-in{
+position:absolute;
+top: 50px;
+right:150px;
+color: white;
+opacity: 50%;
+}
+.all{
+position: absolute;
+top: 900px;
+left: 450px;
+color: white;
+width: 40%;
+}
+.accesible{
+  position: absolute;
+  top: 940px;
+  left: 550px;
+  color: white;
+
+}
+.fylo{
+position: absolute;
+top: 1040px;
+left: 490px;
+color: white;
+opacity: 70%;
+
+}
+.access{
+  position: absolute;
+  top: 1060px;
+  left: 490px;
+  color: white;
+  opacity: 70%;
+
+}
+.friends{
+  position: absolute;
+  top: 1080px;
+  left: 570px;
+  color: white;
+  opacity: 70%;
+}
+.but-getstarted{
+  position: absolute;
+  top: 1150px;
+  left: 575px;
+  height: 30px;
+  width: 190px;
+  background-color:hsl(198, 60%, 50%);
+  border-radius:20px;
+
+}
+.get{
+  position: relative;
+color: white;
+bottom: 10px;
+text-align: center;
+}
+.pc{
+  position: absolute;
+  top: 1350px;
+  left: 440px;
+}
+.ess{
+  position: absolute;
+  top: 1430px;
+  left: 370px;
+  color: white;
+
+}
+.ability{
+  position: absolute;
+  color: white;
+  top: 1470px;
+  left: 310px;
+  width: 24%;
+  opacity: 60%;
+line-height: 1;
+}
+.ever{
+  position: absolute;
+  top: 1510px;
+  left: 430px;
+  color: white;
+  opacity: 60%;
+
+}
+.secure{
+position: absolute;
+top: 1340px;
+right: 580px;
+
+}
+.security{
+position: absolute;
+color: white;
+top: 1435px;
+right: 540px;
+
+}
+.factor{
+  position: absolute;
+  color: white;
+  top: 1470px;
+  right:390px;
+  width: 25%;
+  opacity: 60%;
+  line-height: 1;
+}
+.fac{
+position: absolute;
+color: white;
+  top: 1500px;
+  right:550px;
+  opacity: 60%;
+
+}
+.collaboration{
+  position: absolute;
+  top:1700px;
+  left: 440px;
+}
+.real{
+  position: absolute;
+  top: 1800px;
+  left: 390px;
+  color: white;
+
+}
+.securely{
+  position: absolute;
+  top: 1840px;
+  left: 310px;
+  color: white;
+  opacity: 60%;
+  width: 26%;
+}
+.required{
+  position: absolute;
+  top: 1880px;
+  left: 460px;
+  color: white;
+  opacity: 60%;
+}
+.file{
+position: absolute;
+top: 1710px;
+right: 580px;
+
+}
+.store{
+  position: absolute;
+  top: 1800px;
+  right: 540px;
+  color: white;
+
+}
+.Whether{
+  position: absolute;
+  top: 1840px;
+  right: 380px;
+  color: white;
+  opacity: 60%;
+  width: 25%;
+
+}
+.typess{
+  position: absolute;
+  top: 1880px;
+  right: 340px;
+  color: white;
+  opacity: 60%;
+  width: 25%;
+}
+.productive{
+position: absolute;
+top: 2030px;
+left: 60px;
+color: hsl(219, 30%, 18%);
+}
+
+.stay{
+
+  position: absolute;
+  top: 2110px;
+  left: 760px;
+  color: white;
+  width: 23%;
+}
+.never{
+  position: absolute;
+  top: 2210px;
+  left: 760px;
+  color: white;
+  width: 30%;
+  opacity: 60%
+}
+.share{
+  position: absolute;
+  top: 2270px;
+  left: 760px;
+  color: white;
+  width: 32%;
+  opacity: 60%
+}
+.see{
+color: hsl(176, 68%, 64%);
+  position: absolute;
+  top: 2320px;
+  left: 760px;
+  text-decoration: underline;
+
+}
+.arrow{
+
+  position: absolute;
+  top: 2336px;
+  left: 890px;
+  width: 15px;
+border-bottom: 2px solid hsl(176, 68%, 64%);
+}
+
+.Fylo{
+position:absolute;
+background-color: hsl(219, 30%, 18%);
+height: 200px;
+width: 350px;
+top: 2600px;
+left: 120px;
+
+
+}
+.fylo-p{
+  position: relative;
+  top: 15px;
+  left: 20px;
+color: white;
+font-size: 15px;
+width:280px;
+opacity: 60%;
+}
+.prof-one{
+  position: relative;
+  top: 35px;
+  left: 20px;
+border-radius: 20px;
+width: 30px;
+}
+.satish{
+  color: white;
+  position: relative;
+  top: 20px;
+  right: 210px;
+float: right;
+opacity: 60%;
+font-size: 15px;
+}
+.founder{
+  color: white;
+  position: relative;
+  top: 45px;
+  right: 110px;
+  float: right;
+  opacity: 60%;
+  font-size: 10px;
+
+}
+.bruce{
+position:absolute;
+background-color: hsl(219, 30%, 18%);
+height: 200px;
+width: 350px;
+top: 2600px;
+left: 520px;
+}
+.bruce-p{
+  position: relative;
+  top: 15px;
+  left: 20px;
+color: white;
+font-size: 15px;
+width:280px;
+opacity: 60%;
+
+}
+.prof-two{
+position: relative;
+top: 35px;
+left: 20px;
+border-radius: 20px;
+width: 30px;
+}
+.McKenzie{
+  color: white;
+  position: relative;
+  top: 20px;
+  right: 180px;
+float: right;
+opacity: 60%;
+font-size: 15px;
+}
+.ceo{
+  color: white;
+  position: relative;
+  top: 45px;
+  right: 80px;
+  float: right;
+  opacity: 60%;
+  font-size: 10px;
+
+}
+
+.iva{
+
+  position:absolute;
+  background-color: hsl(219, 30%, 18%);
+  height: 200px;
+  width: 350px;
+  top: 2600px;
+  left: 920px;
+}
+.iva-boyd{
+
+  position: relative;
+  top: 15px;
+  left: 20px;
+  color: white;
+  font-size: 15px;
+  width:280px;
+  opacity: 60%;
+
+}
+.prof-three{
+  position: relative;
+  top: 35px;
+  left: 20px;
+  border-radius: 20px;
+  width: 30px;
+}
+.boyd{
+  color: white;
+  position: relative;
+  top: 20px;
+  right: 230px;
+  float: right;
+  opacity: 60%;
+  font-size: 15px;
+
+}
+.found{
+
+  color: white;
+  position: relative;
+  top: 45px;
+  right: 130px;
+  float: right;
+  opacity: 60%;
+  font-size: 10px;
+}
+.get-early{
+
+  position:absolute;
+  background-color: hsl(219, 30%, 18%);
+  height: 230px;
+  width: 800px;
+  top: 2950px;
+  left: 290px;
+border: 15px;
+}
+.get{
+position: relative;
+top: 20px;
+
+}
+.it{
+  position: relative;
+  top: 20px;
+  color: white;
+  left: 90px;
+
+}
+.question{
+  position: relative;
+  top: 10px;
+  color: white;
+  left: 200px;
+
+}
+.white{
+  position: absolute;
+  top: 180px;
+  left: 80px;
+  height: 30px;
+  width: 410px;
+  background-color:white;
+  border-radius:20px;
+
+}
+.for-free{
+  position: absolute;
+  bottom: 00px;
+  left: 450px;
+  height: 30px;
+  width: 190px;
+  background-color:hsl(198, 60%, 50%);
+  border-radius:20px;
+
+}
+.free{
+
+  position: relative;
+  color: white;
+  left: 30px;
+  bottom: 10px;
+
+}
+.scedule{
+position: absolute;
+top: 2550px;
+left: 110px;
+
+}
+.logo-two{
+
+  position: absolute;
+  top: 3280px;
+  left: 200px;
+
+}
+.location{
+  position: absolute;
+  top: 3390px;
+  left: 190px;
+
+}
+.lorem{
+  color: white;
+  position: absolute;
+  top:3370px;
+  left: 220px;
+  width: 20%;
+  opacity: 60%;
+}
+.phone{
+position: absolute;
+top: 3390px;
+left: 600px;
+
+}
+.number{
+  position: absolute;
+  top: 3370px;
+  left: 650px;
+color: white;
+opacity: 60%;
+
+}
+.email{
+  position: absolute;
+  top: 3430px;
+  left: 600px;
+
+}
+.example{
+  position: absolute;
+  top: 3410px;
+  left: 650px;
+color: white;
+opacity: 60%;
+
+
+}
+.about{
+  position: absolute;
+  top: 3370px;
+  left: 850px;
+color: white;
+opacity: 60%;
+}
+
+.jobs{
+  position: absolute;
+  top: 3400px;
+  left: 850px;
+color: white;
+opacity: 60%;
+}
+.press{
+  position: absolute;
+  top: 3430px;
+  left: 850px;
+color: white;
+opacity: 60%;
+}
+.blog{
+  position: absolute;
+  top: 3460px;
+  left: 850px;
+color: white;
+opacity: 60%;
+}
+.contact{
+  position: absolute;
+  top: 3370px;
+  left: 1050px;
+color: white;
+opacity: 60%;
+
+}
+.Terms{
+
+  position: absolute;
+  top: 3400px;
+  left: 1050px;
+color: white;
+opacity: 60%;
+}
+.privacy{
+  position: absolute;
+  top: 3430px;
+  left: 1050px;
+color: white;
+opacity: 60%;
+
+}
+.fb{
+  background-color: white;
+  position: absolute;
+  top: 3385px;
+  right: 200px;
+border-radius: 10px;
+width: 20px;
+border-style: solid;
+border-color: white; opacity: 20%;
+
+}
+.twitter{
+  background-color: white;
+  position: absolute;
+  top: 3385px;
+  right: 250px;
+border-radius: 10px;
+width: 20px;
+border-style: solid;
+border-color: white; opacity: 20%;
+}
+.instagram{
+  position: absolute;
+  background-color: white;
+  top: 3385px;
+  right: 300px;
+border-radius: 10px;
+width: 20px;
+border-style: solid;
+border-color: white; opacity: 20%;
+
+
+}
